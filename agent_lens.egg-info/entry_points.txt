@@ -1,2 +1,0 @@
-[console_scripts]
-agent-lens = agent_lens.cli:cli

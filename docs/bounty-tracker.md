@@ -1,6 +1,6 @@
 # Bounty 猎场记录
 
-最后更新: 2026-05-02
+最后更新: 2026-05-03
 
 ## 最佳机会（按 ROI 排序）
 
@@ -61,3 +61,70 @@
 - [ ] daydreamsai/agent-bounties - 评估 DeFi 领域
 - [ ] boss.dev bounties - 浏览具体项目
 - [ ] Opire.dev bounties - 浏览具体项目
+
+## 已提交 PR
+
+| 仓库 | Issue | PR | 金额 | 状态 | 提交时间 |
+|------|-------|-----|------|------|----------|
+| openai/openai-python | #843 | #3194 | $0 (信誉) | 等 review | 2026-05-02 |
+| openai/openai-python | #3180 | #3195 | $0 (信誉) | 等 review | 2026-05-03 |
+| openai/openai-python | #2093 | #3196 | $0 (信誉) | 等 review | 2026-05-03 |
+| coollabsio/coolify | #8264 | #9910 | $7 | ❌ 被 bot 关（账号<30天） | 2026-05-03 |
+| coollabsio/coolify | #8266 | #9911 | $7 | ❌ 被 bot 关（账号<30天） | 2026-05-03 |
+| getsentry/sentry-python | #6121 | #6184 | $0 (信誉) | 等 review | 2026-05-03 |
+| fork-commit-merge | #7006 | #7115 | $0 (刷 ratio) | 等 merge | 2026-05-03 |
+| fork-commit-merge | #7004 | #7116 | $0 (刷 ratio) | 等 merge | 2026-05-03 |
+| fork-commit-merge | #7021 | #7117 | $0 (刷 ratio) | 等 merge | 2026-05-03 |
+
+## 今日完成 (2026-05-03)
+
+### Bounty PR（刷 ratio + 信誉）
+| 仓库 | Issue | PR | 目的 |
+|------|-------|-----|------|
+| openai-python | #3180 | #3195 | 信誉 |
+| openai-python | #2093 | #3196 | 信誉 |
+| sentry-python | #6121 | #6184 | 信誉 |
+| fork-commit-merge | #7006 | #7115 | 刷 ratio |
+| fork-commit-merge | #7004 | #7116 | 刷 ratio |
+| fork-commit-merge | #7021 | #7117 | 刷 ratio |
+| Coolify | #8264 | #9910 | ❌ 被 bot 关 |
+| Coolify | #8266 | #9911 | ❌ 被 bot 关 |
+
+### Coolify 待提交（等 5/25 账号满 30 天）
+| Issue | 金额 | 内容 |
+|-------|------|------|
+| #7423 | $1K | pgBackRest Postgres 备份 |
+| #6894 | $1K | 项目特定成员 |
+| #6519 | $100 | 容器文件浏览器 |
+| #7655 | $75 | 环境变量隔离 |
+| #7642 | $50 | SurrealDB 支持 |
+
+### 定时任务
+| 任务 | ID | 时间 | 内容 |
+|------|-----|------|------|
+| bounty-scan | 4aeaa574466d | 每 6 小时 | 自动扫描新 bounty |
+
+## 今日完成 (2026-05-02)
+
+### Bounty PR
+| 仓库 | Issue | PR | 金额 | 状态 |
+|------|-------|-----|------|------|
+| openai/openai-python | #843 | #3194 | $0 (信誉) | 等 review |
+
+### ClawHub 技能包（待 5 月 9 日发布）
+| 技能 | 目录 | 状态 |
+|------|------|------|
+| db-explorer | ~/.hermes/skills/data-science/db-explorer | 增强完成 |
+| agent-lens | ~/.hermes/skills/data-science/agent-lens | 完成 |
+| api-bridge | ~/.hermes/skills/development/api-bridge | 新建完成 |
+
+### 工具
+| 工具 | 仓库 | 状态 |
+|------|------|------|
+| agent-lens CLI | https://github.com/lrg913427-dot/agent-lens | 发布到 GitHub |
+
+### 定时任务
+| 任务 | 时间 | 内容 |
+|------|------|------|
+| ClawHub 发布 | 5 月 9 日 19:00 | 发布 3 个技能包 |
+| 自动测试迭代 | 每 6 小时 | 测试 agent-lens + 检查 ClawHub |

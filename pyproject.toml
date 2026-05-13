@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "agent-lens"
+name = "agentlens-monitor"
 version = "0.1.0"
 description = "AI Agent 追踪和成本优化 CLI 工具"
 readme = "README.md"
